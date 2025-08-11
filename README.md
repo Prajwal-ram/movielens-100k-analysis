@@ -23,6 +23,6 @@ The goal is to explore rating patterns, identify the most popular and top-rated 
 ---
 
 #  Files in This Repository
-- `movielens_analysis.ipynb` – Google Colab/Jupyter Notebook with code and visualizations.
+- `[movielens_analysis.ipynb](https://colab.research.google.com/drive/1sfgUsi8fdTrtUq-ZLtSuzjISn5D9q526#scrollTo=ImFnz3HNNG3P)` – Google Colab/Jupyter       Notebook with code and visualizations.
 - `u1.base`, `u.item` – Sample dataset files used (from MovieLens 100K).
 - `README.md` – Project documentation.
